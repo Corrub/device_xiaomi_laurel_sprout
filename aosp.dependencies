@@ -2,16 +2,16 @@
    {  
       "repository"   : "device_xiaomi_laurel_sprout",
       "target_path"  : "device/xiaomi/laurel_sprout",
-      "branch"       : "elle"
+      "branch"       : "thirteen"
    },
    {  
       "repository"   : "kernel_xiaomi_laurel_sprout",
       "target_path"  : "kernel/xiaomi/laurel_sprout",
-      "branch"       : "elle"
+      "branch"       : "thirteen"
    },
    {  
       "repository"   : "vendor_xiaomi_laurel_sprout",
       "target_path"  : "vendor/xiaomi/laurel_sprout",
-      "branch"       : "elle"
+      "branch"       : "thirteen"
    }
 ]
